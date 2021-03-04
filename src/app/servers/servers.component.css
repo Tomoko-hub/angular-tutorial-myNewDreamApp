@@ -1,0 +1,15 @@
+
+.app-servers {
+    background-color: black;
+}
+.app-servers * {
+    color:bisque;
+}
+
+.app-servers input {
+    color:black;
+}
+
+.app-servers hr {
+    color: bisque;
+}
